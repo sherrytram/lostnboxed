@@ -20,7 +20,7 @@ I designed and developed the entire project from scratch during a two-week summe
 
 ## Links
 
-- **Play online:** [Lost n Boxed on Scratch]([https://scratch.mit.edu/projects/123456789/](https://scratch.mit.edu/projects/1197409944))  
+- **Play online:** https://scratch.mit.edu/projects/123456789/](https://scratch.mit.edu/projects/1197409944  
 
 ## About the Project
 
