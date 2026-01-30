@@ -21,7 +21,6 @@ I designed and developed the entire project from scratch during a two-week summe
 ## Links
 
 - **Play online:** [Lost n Boxed on Scratch]([https://scratch.mit.edu/projects/123456789/](https://scratch.mit.edu/projects/1197409944))  
-- **Download project file:** [`Lost_n_Boxed.sb3`](Lost_n_Boxed.sb3)  
 
 ## About the Project
 
